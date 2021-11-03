@@ -1,0 +1,228 @@
+
+
+Heading about Two_setpointers.png
+------------------------------------------------------------------------
+.. include:: Two_setpointers.png.txt
+
+.. figure:: happypictures/Two_setpointers.png
+   :scale: 50 %
+   :alt: Two_setpointers.png
+   :align: center
+
+   **Two_setpointers.png caption here**
+
+
+Heading about Three_power.png
+------------------------------------------------------------------------
+.. include:: Three_power.png.txt
+
+.. figure:: happypictures/Three_power.png
+   :scale: 50 %
+   :alt: Three_power.png
+   :align: center
+
+   **Three_power.png caption here**
+
+
+Heading about Tab_connectors.png
+------------------------------------------------------------------------
+.. include:: Tab_connectors.png.txt
+
+.. figure:: happypictures/Tab_connectors.png
+   :scale: 50 %
+   :alt: Tab_connectors.png
+   :align: center
+
+   **Tab_connectors.png caption here**
+
+
+Heading about Power_doer.jpg
+------------------------------------------------------------------------
+.. include:: Power_doer.jpg.txt
+
+.. figure:: happypictures/Power_doer.jpg
+   :scale: 50 %
+   :alt: Power_doer.jpg
+   :align: center
+
+   **Power_doer.jpg caption here**
+
+
+Heading about Heaped_pcb.png
+------------------------------------------------------------------------
+.. include:: Heaped_pcb.png.txt
+
+.. figure:: happypictures/Heaped_pcb.png
+   :scale: 50 %
+   :alt: Heaped_pcb.png
+   :align: center
+
+   **Heaped_pcb.png caption here**
+
+
+Heading about Nicole_sidewalker.jpg
+------------------------------------------------------------------------
+.. include:: Nicole_sidewalker.jpg.txt
+
+.. figure:: happypictures/Nicole_sidewalker.jpg
+   :scale: 50 %
+   :alt: Nicole_sidewalker.jpg
+   :align: center
+
+   **Nicole_sidewalker.jpg caption here**
+
+
+Heading about Bright_hall.png
+------------------------------------------------------------------------
+.. include:: Bright_hall.png.txt
+
+.. figure:: happypictures/Bright_hall.png
+   :scale: 50 %
+   :alt: Bright_hall.png
+   :align: center
+
+   **Bright_hall.png caption here**
+
+
+Heading about Just_light.jpg
+------------------------------------------------------------------------
+.. include:: Just_light.jpg.txt
+
+.. figure:: happypictures/Just_light.jpg
+   :scale: 50 %
+   :alt: Just_light.jpg
+   :align: center
+
+   **Just_light.jpg caption here**
+
+
+Heading about Light_floor.jpg
+------------------------------------------------------------------------
+.. include:: Light_floor.jpg.txt
+
+.. figure:: happypictures/Light_floor.jpg
+   :scale: 50 %
+   :alt: Light_floor.jpg
+   :align: center
+
+   **Light_floor.jpg caption here**
+
+
+Heading about Tilted_cpu.jpg
+------------------------------------------------------------------------
+.. include:: Tilted_cpu.jpg.txt
+
+.. figure:: happypictures/Tilted_cpu.jpg
+   :scale: 50 %
+   :alt: Tilted_cpu.jpg
+   :align: center
+
+   **Tilted_cpu.jpg caption here**
+
+
+Heading about Gesture_micro.jpg
+------------------------------------------------------------------------
+.. include:: Gesture_micro.jpg.txt
+
+.. figure:: happypictures/Gesture_micro.jpg
+   :scale: 50 %
+   :alt: Gesture_micro.jpg
+   :align: center
+
+   **Gesture_micro.jpg caption here**
+
+
+Heading about Simple_mess.png
+------------------------------------------------------------------------
+.. include:: Simple_mess.png.txt
+
+.. figure:: happypictures/Simple_mess.png
+   :scale: 50 %
+   :alt: Simple_mess.png
+   :align: center
+
+   **Simple_mess.png caption here**
+
+
+Heading about Streetlight_controller.png
+------------------------------------------------------------------------
+.. include:: Streetlight_controller.png.txt
+
+.. figure:: happypictures/Streetlight_controller.png
+   :scale: 50 %
+   :alt: Streetlight_controller.png
+   :align: center
+
+   **Streetlight_controller.png caption here**
+
+
+Heading about Delta_controller.png
+------------------------------------------------------------------------
+.. include:: Delta_controller.png.txt
+
+.. figure:: happypictures/Delta_controller.png
+   :scale: 50 %
+   :alt: Delta_controller.png
+   :align: center
+
+   **Delta_controller.png caption here**
+
+
+Heading about Honeywell_stat.jpg
+------------------------------------------------------------------------
+.. include:: Honeywell_stat.jpg.txt
+
+.. figure:: happypictures/Honeywell_stat.jpg
+   :scale: 50 %
+   :alt: Honeywell_stat.jpg
+   :align: center
+
+   **Honeywell_stat.jpg caption here**
+
+
+Heading about Twelve_channel.png
+------------------------------------------------------------------------
+.. include:: Twelve_channel.png.txt
+
+.. figure:: happypictures/Twelve_channel.png
+   :scale: 50 %
+   :alt: Twelve_channel.png
+   :align: center
+
+   **Twelve_channel.png caption here**
+
+
+Heading about Bagged_pcb.jpg
+------------------------------------------------------------------------
+.. include:: Bagged_pcb.jpg.txt
+
+.. figure:: happypictures/Bagged_pcb.jpg
+   :scale: 50 %
+   :alt: Bagged_pcb.jpg
+   :align: center
+
+   **Bagged_pcb.jpg caption here**
+
+
+Heading about Three_kinds.png
+------------------------------------------------------------------------
+.. include:: Three_kinds.png.txt
+
+.. figure:: happypictures/Three_kinds.png
+   :scale: 50 %
+   :alt: Three_kinds.png
+   :align: center
+
+   **Three_kinds.png caption here**
+
+
+Heading about hvacl_idea.png
+------------------------------------------------------------------------
+.. include:: hvacl_idea.png.txt
+
+.. figure:: happypictures/hvacl_idea.png
+   :scale: 50 %
+   :alt: hvacl_idea.png
+   :align: center
+
+   **hvacl_idea.png caption here**

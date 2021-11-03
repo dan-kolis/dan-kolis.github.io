@@ -1,0 +1,22 @@
+==============================================
+Heads up - Dan K and building technology
+==============================================
+In 2018 I hit upon the notion of an improvement to HVAC that involved both
+lighting and air, primarily old world HVAC concern of temperature.
+
+Since then I've been part of rolling out 4 PCb's for HVAC Fan controls, deployed in maybe a five or six
+buildings in Toronto and New York City. The following is in Chronological order "roughly".
+
+.. figure:: happypictures/5by2.*
+   :scale: 70 %
+   :alt: PCBs
+   :align: center
+
+   **Ten HVAC PCBs we made - ready to "Break out"**
+
+Of course there is a Engineering company in this story someplace; but lets focus on the idea, the stuff
+deployed more then who beyond myself. That is, communication is **about the idea and the stuff**, 
+not me, **or the other people and companies**...
+
+
+
