@@ -1,0 +1,109 @@
+==============================================
+Heads up - Dan K and building technology
+==============================================
+
+
+This heading has asterisks under it
+*******************************************
+I think this one was posted to my Dan K Cloud thing for a Teleconf show 
+and tell on 23 Nov 2020. Since then I fixed some spelling errors, etc; 
+And a little first try at versioning too...
+
+:ref:`compBioOp9p63`
+
+Nothing matters as much as the **index.html page** for the first impression, 
+so probably its always a sacred, hand fussed over. usually edited a little, file.
+
+This *doesn't* mean its endlessly clobbered, lost and rekeyed.
+It means the people doing the work, should decide and do something to make this
+compatible with what their doing; For instance: Just setting a 
+believed in index.html to **read only**, so its
+persists, or have a script copy it over... fixes this issue...
+
+But its a generalized thing to be managed.
+
+This heading has hyphens under it
+---------------------------------------------------------------
+Here's the endlessly tweaked single .rst to .html file of how the compile makes 
+effects, and so on:
+
+:ref:`Using_sphinx_worked_examples`
+
+  Note: Its **intentionally** referred with a label, not the heading itself, so
+  if you make a boo boo and lose the conf.py file it will stll connect.
+
+    **The conf.py file is important !**
+
+  The worked example file has 'real adult' rev control, the rest of the heap of
+  files here doesn't. versioning in conf.py doesn't really seem to be exposed a
+  lot in reality. its set to 0.0.1 to imply its not doing anything yet.
+
+In case the conf.py with the id of this work, etc a few changed lines gets lost,
+a **backup** file is named: conf.ImaBackupFile
+
+
+Jump table to alternatives
+--------------------------
+Here's a short list of 'top level like' files as links for you to enjoy
+
+**Of course** Titles are duplicated and there are ones with syntax errors 
+and "dunno" here and there. There dont have HTML:// yet as there not published
+to a real server, but the chaining is the same and local authoring is a lot
+more efficient then endless round trips to servers !
+
+Index XX links of all sorts
+*****************************
+A heap of bunch of messy tries at the top level indexing concepts:
+:ref:`index01`
+:ref:`index02`
+:ref:`index03`
+:ref:`index04`
+:ref:`index05`
+:ref:`index06`
+:ref:`index07`
+:ref:`index08`
+:ref:`index09`
+:ref:`index10`
+:ref:`index11`
+:ref:`index12`
+:ref:`index13`
+:ref:`index14`
+:ref:`index15`
+:ref:`index16`
+:ref:`index17`
+:ref:`index18`
+:ref:`index19`
+
+This is probably a good number of these to leave lurking around 
+for thinking and testing.
+Just clobber any one you think is stupid or has proved its point 'as you go'.
+Of course their in no specific order.
+
+Then the one that's 'really magically right' might be copied over index.html
+
+**OR**
+
+You use some other redirection concept on your server, and its HTML rewrites 
+so you generate the right user experience, and leave yourself with one a one line
+change for pointing to entire WWW sets, in case of mistakes, ass on fire fixes,
+etc.
+
+Getting at me
+-------------
+You can email me at: dankolis@gmail.com 
+I will help you do whatever it is you want to do, figure out, etc.
+
+Version this index file
+-----------------------
+Done by Dan Kolis 30 Nov 2020 13:07 E 
+
+This is *Not* official version control. its just well, when I did it as they say
+in **ISO 9000** it's for **Reference only**, whatever that is suppose to mean
+nobody knows exactly...
+
+
+
+
+
+
+

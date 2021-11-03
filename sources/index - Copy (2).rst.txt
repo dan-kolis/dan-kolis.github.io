@@ -1,0 +1,40 @@
+==============================================
+Heads up - Dan K and building technology
+==============================================
+
+
+This heading has asterisks under it
+*******************************************
+I think this one was posted to my Dan K Cloud thing for a Teleconf show 
+and tell on 23 Nov 2020. Since then I fixed some spelling errors, etc; 
+And a little first try at versioning too...
+
+:ref:`compBioOp9p63`
+
+Nothing matters as much as the **index.html page** for the first impression, 
+so probably its always a sacred, hand fussed over. usually edited a little, file.
+
+This *doesn't* mean its endlessly clobbered, lost and rekeyed.
+It means the people doing the work, should decide and do something to make this
+compatible with what their doing; For instance: Just setting a 
+believed in index.html to **read only**, so its
+persists, or have a script copy it over... fixes this issue...
+
+But its a generalized thing to be managed.
+
+
+Using Sphinx
+******************************
+Here's some help using the HTML generator that made these pages. The things called SPHINX:
+
+##Clickable URL:
+:ref:`Using_sphinx_worked_examples`
+
+Version this compilation
+----------------------------------------
+Dan Kolis 02 Nov 2021 00:04 E  
+
+This is *Not* official version control. its just well, when I did it as they say
+in **ISO 9000** it's for **Reference only**, whatever that is suppose to mean
+nobody knows exactly...
+

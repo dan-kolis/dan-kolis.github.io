@@ -1,0 +1,32 @@
+==============================================
+Heads up - Dan K and building technology
+==============================================
+
+
+Using Sphinx
+******************************
+Here's some help using the HTML generator that made these pages. The things called SPHINX:
+
+## Clickable URL:
+
+:ref:`Using_sphinx_worked_examples`
+
+
+University of Buffalo - Comp Sci for life sciences
+****************************************************
+This one was posted to my Dan K Cloud thing for a Teleconf show 
+and tell on 23 Nov 2020.
+
+## Clickable URL:
+
+:ref:`compBioOp9p63`
+
+
+Version this compilation
+----------------------------------------
+Dan Kolis 02 Nov 2021 00:04 E  
+
+This is *Not* official version control. its just well, when I did it as they say
+in **ISO 9000** it's for **Reference only**, whatever that is suppose to mean
+nobody knows exactly...
+
