@@ -7,7 +7,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Reference worked examples &#8212; 04Nov2021A 1.1.1 documentation</title>
+    <title>Using Sphinx - Worked examples &#8212; 04Nov2021A 1.1.1 documentation</title>
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <link rel="stylesheet" href="_static/cloud.css" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noticia+Text:400,i,b,bi|Open+Sans:400,i,b,bi|Roboto+Mono:400,i,b,bi&amp;display=swap" type="text/css" />
@@ -49,7 +49,7 @@
              accesskey="I">index</a></li>
     <li><a href="index.html">04Nov2021A 1.1.1 documentation</a> &#187;</li>
 
-        <li class="nav-item nav-item-this"><a href="">Reference worked examples</a></li> 
+        <li class="nav-item nav-item-this"><a href="">Using Sphinx - Worked examples</a></li> 
       </ul>
     </div>
     </div>
@@ -60,9 +60,8 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <div class="section" id="reference-worked-examples">
-<h1>Reference worked examples<a class="headerlink" href="#reference-worked-examples" title="Permalink to this headline">¶</a></h1>
-<p>17:01</p>
+  <div class="section" id="using-sphinx-worked-examples">
+<h1>Using Sphinx - Worked examples<a class="headerlink" href="#using-sphinx-worked-examples" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="about-sphinx">
 <span id="aboutsphinx1"></span><h2>About Sphinx<a class="headerlink" href="#about-sphinx" title="Permalink to this headline">¶</a></h2>
 <blockquote>
@@ -159,8 +158,11 @@ This is serious stuff for getting, or maintaining desired results.</p>
 <p>But if you start a project 'from scratch', you will want to experiment with the <strong>toctree</strong> portion before
 committing to a procedure for designing your workflow.</p>
 <p>I suppose a bit of bad news is: <strong>toctree</strong> is beyond the scope of this document entirely.</p>
+</div>
+</div>
+</div>
 <div class="section" id="worked-examples-begin-here">
-<span id="workede1"></span><h4>Worked examples begin here<a class="headerlink" href="#worked-examples-begin-here" title="Permalink to this headline">¶</a></h4>
+<span id="workede1"></span><h1>Worked examples begin here<a class="headerlink" href="#worked-examples-begin-here" title="Permalink to this headline">¶</a></h1>
 <p>The following material is presented roughly in the order of importance, <strong>starting with flat text</strong>
 and <strong>concluding with images, lists and footnotes</strong>. <strong>What you need to know most</strong>, is first.</p>
 <p>There is no other specific order whatsoever. The goal is to supply you with one file making one
@@ -170,9 +172,6 @@ and management process.</p>
 at the source file: <strong>Using_sphinx_worked_examples.rst</strong>, is best. This is intentional; Each
 function is exposed one way or the other. The choice is based on how it's (hopefully), easiest
 for you to get results with the least iterative frustration.</p>
-</div>
-</div>
-</div>
 <div class="section" id="paragraphs">
 <span id="para10"></span><h2>Paragraphs<a class="headerlink" href="#paragraphs" title="Permalink to this headline">¶</a></h2>
 <p>Most of your file content will be flat text broken up with empty lines, marking the gap
@@ -523,11 +522,11 @@ crunchy, now would it?</p></td>
 <span id="images1"></span><h2>Images - JPG PNG presumably<a class="headerlink" href="#images-jpg-png-presumably" title="Permalink to this headline">¶</a></h2>
 <p>Images can be supported with ease, they can be pulled from other directories, but let's start
 with one in <strong>./source</strong> The same spot as the .rst file doing the calling.</p>
-<img alt="allImages/rags.jpg" src="allImages/rags.jpg" />
+<img alt="rags.jpg" src="rags.jpg" />
 <p>Note: The extension can be omitted and the packaged tries to find and show the file.
 This also works, see the source code if you want to be sure of this, but here it is to encourage
 you to use the wild card form:
-| .. image:: /allImages/rags.*</p>
+| .. image:: rags.*</p>
 <p>Official documents say the .* find it yourself is preferred so the package
 can pick the best <strong>.ext</strong> for particular renderings. That is, <strong>.jpg .svg .png</strong> with the same filename
 is specifically supported.</p>
@@ -536,15 +535,15 @@ is specifically supported.</p>
 <p>Here is a more maximal example. Figures can renumber themselves and be referred to with symbolic names too.
 This example is slightly less fell blown then that, however.</p>
 <div class="figure align-center" id="id11">
-<a class="reference internal image-reference" href="allImages/plates.*"><img alt="plates" src="allImages/plates.*" /></a>
+<a class="reference internal image-reference" href="_images/plates.jpg"><img alt="Dishware" src="_images/plates.jpg" style="width: 212.4px; height: 190.8px;" /></a>
 <p class="caption"><span class="caption-text"><strong>This is a picture of some dish stuff</strong></span><a class="headerlink" href="#id11" title="Permalink to this image">¶</a></p>
 </div>
 <dl>
 <dt>This is quite simply achieved, using:</dt><dd><div class="line-block">
-<div class="line">.. figure:: /allImages/plates.*</div>
+<div class="line">.. figure:: happypictures/plates.*</div>
 <div class="line-block">
 <div class="line">:scale: 50 %</div>
-<div class="line">:alt: plates</div>
+<div class="line">:alt: Dishware</div>
 <div class="line">:align: center</div>
 </div>
 </div>
@@ -644,7 +643,7 @@ different jurisdiction.</p>
 </dd>
 </dl>
 <div class="figure align-default" id="id13">
-<a class="reference internal image-reference" href="allImages/aboutfootnotes.jpg"><img alt="aboutfootnotes" src="allImages/aboutfootnotes.jpg" /></a>
+<a class="reference internal image-reference" href="happypictures/aboutfootnotes.jpg"><img alt="About footnotes" src="happypictures/aboutfootnotes.jpg" /></a>
 <p class="caption"><span class="caption-text"><strong>This is how Footnotes work</strong></span><a class="headerlink" href="#id13" title="Permalink to this image">¶</a></p>
 </div>
 <p><strong>Important</strong> Of course usually the last part is at the bottom of a HTML page, like a paper page.
@@ -714,7 +713,7 @@ to do a thing!</p>
 </div>
 <div class="section" id="authorship-and-versioning">
 <span id="aboutwho1"></span><h2>Authorship and versioning<a class="headerlink" href="#authorship-and-versioning" title="Permalink to this headline">¶</a></h2>
-<p>I had instant success with activating the functionality to neatly add named persons
+<p>I had nearly instance success with activating some functionality to neatly add named persons
 for 'who did this thing?' controls at the per .rst level. It involves a switch in the conf.py file;
 specifically that is variable: <strong>show_authors</strong> and setting it to True enables this neat thing. Of
 course, a fussy label line needs inclusion in the .rst too. I wanted it recorded here as an enabling
@@ -729,8 +728,48 @@ a first instance of a system. Look up the variable in a google search with <stro
 Also, it meticulously integrates hundreds of version control changes for basically obsolete versions.</p>
 <p>This file is intended to get you into the ballpark for fancy output without all of that. But its there, for
 you, when you need it.</p>
-<p><strong>Document end</strong></p>
 </div>
+</div>
+<div class="section" id="versioning-for-this-file-alone">
+<span id="verhelp1"></span><h1>Versioning - For this file alone<a class="headerlink" href="#versioning-for-this-file-alone" title="Permalink to this headline">¶</a></h1>
+<table class="colwidths-given docutils align-default" id="id14">
+<caption><span class="caption-text"><strong>Version and release datablock</strong></span><a class="headerlink" href="#id14" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p># Ver</p></th>
+<th class="head"><p>Timestamp</p></th>
+<th class="head"><p>Venue</p></th>
+<th class="head"><p>Purpose</p></th>
+<th class="head"><p>Editor</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>0.9.1</p></td>
+<td><p>23 Nov 2020 12:10 Z</p></td>
+<td><p>agentdbk on google cloud</p></td>
+<td><p>Teleconf chats</p></td>
+<td><p>Dan K</p></td>
+</tr>
+<tr class="row-odd"><td><p>0.9.61</p></td>
+<td><p>27 Nov 2020 12:05 E</p></td>
+<td><p>agentdbk on google cloud</p></td>
+<td><p>Rollout support Ram S</p></td>
+<td><p>Dan K</p></td>
+</tr>
+</tbody>
+</table>
+<ul class="simple">
+<li><p>This table is for <strong>Releases only</strong>, if you have other versioning concepts, use comments 'down here' in
+the file.</p>
+</li>
+</ul>
+<p><strong>Document end</strong></p>
 </div>
 
 
@@ -742,19 +781,19 @@ you, when you need it.</p>
         <div class="sphinxsidebarwrapper"><div class="sphinx-toc sphinxlocaltoc">
     <h3><a href="index.html">Page contents</a></h3>
     <ul>
-<li><a class="reference internal" href="#">Reference worked examples</a><ul>
+<li><a class="reference internal" href="#">Using Sphinx - Worked examples</a><ul>
 <li><a class="reference internal" href="#about-sphinx">About Sphinx</a></li>
 <li><a class="reference internal" href="#enabling-features-and-comments-about-extensions">Enabling features and comments about extensions</a><ul>
 <li><a class="reference internal" href="#the-official-documentation-is-a-bit-weird">The Official documentation is a bit weird</a></li>
 <li><a class="reference internal" href="#copy-and-paste-is-your-friend">Copy and paste is your friend</a></li>
 <li><a class="reference internal" href="#important-terminology">Important terminology</a></li>
 <li><a class="reference internal" href="#more-terminology-essentials">More terminology essentials</a></li>
-<li><a class="reference internal" href="#heads-up-about-toctree">Heads up ! About toctree</a><ul>
-<li><a class="reference internal" href="#worked-examples-begin-here">Worked examples begin here</a></li>
+<li><a class="reference internal" href="#heads-up-about-toctree">Heads up ! About toctree</a></li>
 </ul>
 </li>
 </ul>
 </li>
+<li><a class="reference internal" href="#worked-examples-begin-here">Worked examples begin here</a><ul>
 <li><a class="reference internal" href="#paragraphs">Paragraphs</a></li>
 <li><a class="reference internal" href="#comments">Comments</a></li>
 <li><a class="reference internal" href="#internal-to-project-jump-to-clickable-points">Internal to project jump to clickable points</a></li>
@@ -797,13 +836,14 @@ you, when you need it.</p>
 <li><a class="reference internal" href="#conclusion">Conclusion</a></li>
 </ul>
 </li>
+<li><a class="reference internal" href="#versioning-for-this-file-alone">Versioning - For this file alone</a></li>
 </ul>
 
   </div>
   <div role="note" aria-label="source link">
     <h3>This Page</h3>
     <ul class="this-page-menu">
-      <li><a href="_sources/sphinx_worked_examples.rst.txt"
+      <li><a href="_sources/Using_sphinx_worked_examples.rst.txt"
             rel="nofollow">Show Source</a></li>
     </ul>
    </div>
@@ -848,7 +888,7 @@ you, when you need it.</p>
              >index</a></li>
     <li><a href="index.html">04Nov2021A 1.1.1 documentation</a> &#187;</li>
 
-        <li class="nav-item nav-item-this"><a href="">Reference worked examples</a></li> 
+        <li class="nav-item nav-item-this"><a href="">Using Sphinx - Worked examples</a></li> 
       </ul>
     </div>
     </div>

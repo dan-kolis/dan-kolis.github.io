@@ -1,0 +1,280 @@
+Dan Kolis - Building technology 2017-2021
+=========================================================
+In 2017 I hit upon the notion of an improvement to HVAC that involved both
+lighting and air, primarily old world HVAC concerns of temperature and also
+**deep** control of lighting, like usage of occupancy for dimming, for example.
+
+The immediate turm notion started out with a chat from "The two Dan's",
+the interest in HVAC from "Young Dan" and lighting and general building
+technology, from ( unfortunately ) "Old Dan"... 
+
+Since then I've been part of rolling out four PCB designs for HVAC 
+fan controls, deployed in maybe a five or six
+buildings in Toronto and New York City. The following is in rough
+chronological order. This is a total of a a few hundred control points,
+all "fans" in this case.
+
+Of course, there are engineering companies in this story too; but let's 
+focus on the idea: the stuff
+deployed more then who did what. 
+
+- Dan Kolis / Toronto
+
+**Document design Note**
+  **This is one longish file. You might find closing the index to the left ( with a click ) useful, especially on a narrow reading device.**
+
+A Breadboard and first PCB
+************************************************************************
+.. include:: Two_setpointers_top.tex
+
+.. figure:: happypictures/Two_setpointers.*
+   :scale: 70 %
+   :alt: Two_setpointers
+   :align: center
+
+   **Two setpointers**
+.. include:: Two_setpointers_bot.tex
+
+
+Three channels, more power
+************************************************************************
+.. include:: Three_power_top.tex
+
+.. figure:: happypictures/Three_power.*
+   :scale: 70 %
+   :alt: Three_power
+   :align: center
+
+   **Three power**
+.. include:: Three_power_bot.tex
+
+
+Connectors matter
+************************************************************************
+.. include:: Tab_connectors_top.tex
+
+.. figure:: happypictures/Tab_connectors.*
+   :scale: 70 %
+   :alt: Tab_connectors
+   :align: center
+
+   **Tab connectors**
+.. include:: Tab_connectors_bot.tex
+
+
+Power Three channels built up
+************************************************************************
+.. include:: Power_doer_top.tex
+
+.. figure:: happypictures/Power_doer.*
+   :scale: 35 %
+   :alt: Power_doer
+   :align: center
+
+   **Power doer**
+.. include:: Power_doer_bot.tex
+
+
+A Heap of PCBs
+************************************************************************
+.. include:: Heaped_pcb_top.tex
+
+.. figure:: happypictures/Heaped_pcb.*
+   :scale: 115 %
+   :alt: Heaped_pcb
+   :align: center
+
+   **Heaped pcb**
+.. include:: Heaped_pcb_bot.tex
+
+
+Heading Nicole at Sidewalk / Alpha / Google
+************************************************************************
+.. include:: Nicole_sidewalker_top.tex
+
+.. figure:: happypictures/Nicole_sidewalker.*
+   :scale: 60 %
+   :alt: Nicole_sidewalker
+   :align: center
+
+   **Nicole sidewalker**
+.. include:: Nicole_sidewalker_bot.tex
+
+
+A Bright Hallway
+************************************************************************
+.. include:: Bright_hall_top.tex
+
+.. figure:: happypictures/Bright_hall.*
+   :scale: 130 %
+   :alt: Bright_hall
+   :align: center
+
+   **Bright hall**
+.. include:: Bright_hall_bot.tex
+
+
+An experimental Light fixture
+************************************************************************
+.. include:: Just_light_top.tex
+
+.. figure:: happypictures/Just_light.*
+   :scale: 40 %
+   :alt: Just_light
+   :align: center
+
+   **Just light **
+.. include:: Just_light_bot.tex
+
+
+Understanding a Dual purpose light
+************************************************************************
+.. include:: Light_floor_top.tex
+
+.. figure:: happypictures/Light_floor.*
+   :scale: 37 %
+   :alt: Light_floor
+   :align: center
+
+   **Light floor **
+.. include:: Light_floor_bot.tex
+
+
+CPU Development
+************************************************************************
+.. include:: Tilted_cpu_top.tex
+
+.. figure:: happypictures/Tilted_cpu.*
+   :scale: 37 %
+   :alt: Tilted_cpu
+   :align: center
+
+   **Tilted cpu **
+.. include:: Tilted_cpu_bot.tex
+
+
+IOT CPU and Driver
+************************************************************************
+.. include:: Gesture_micro_top.tex
+
+.. figure:: happypictures/Gesture_micro.*
+   :scale: 30 %
+   :alt: Gesture_micro
+   :align: center
+
+   **Gesture micro **
+.. include:: Gesture_micro_bot.tex
+
+
+More PCBs
+************************************************************************
+.. include:: Simple_mess_top.tex
+
+.. figure:: happypictures/Simple_mess.*
+   :scale: 120 %
+   :alt: Simple_mess
+   :align: center
+
+   **Simple mess **
+.. include:: Simple_mess_bot.tex
+
+
+Streetlight Simple controller
+************************************************************************
+.. include:: Streetlight_controller_top.tex
+
+.. figure:: happypictures/Streetlight_controller.*
+   :scale: 200 %
+   :alt: Streetlight_controller
+   :align: center
+
+   **Streetlight controller **
+.. include:: Streetlight_controller_bot.tex
+
+
+Delta bacNET controller
+************************************************************************
+.. include:: Delta_controller_top.tex
+
+.. figure:: happypictures/Delta_controller.*
+   :scale: 300 %
+   :alt: Delta_controller
+   :align: center
+
+   **Delta controller **
+.. include:: Delta_controller_bot.tex
+
+
+About Honeywell
+************************************************************************
+.. include:: Honeywell_stat_top.tex
+
+.. figure:: happypictures/Honeywell_stat.*
+   :scale: 50 %
+   :alt: Honeywell_stat
+   :align: center
+
+   **Honeywell stat **
+.. include:: Honeywell_stat_bot.tex
+
+
+A Twelve Channel Fan PCB
+************************************************************************
+.. include:: Twelve_channel_top.tex
+
+.. figure:: happypictures/Twelve_channel.*
+   :scale: 110 %
+   :alt: Twelve_channel
+   :align: center
+
+   **Twelve channel **
+.. include:: Twelve_channel_bot.tex
+
+
+Bagged PCbs Ready to populate
+************************************************************************
+.. include:: Bagged_pcb_top.tex
+
+.. figure:: happypictures/Bagged_pcb.*
+   :scale: 38 %
+   :alt: Bagged_pcb
+   :align: center
+
+   **Bagged pcb **
+.. include:: Bagged_pcb_bot.tex
+
+
+A Few Iterations
+************************************************************************
+.. include:: Three_kinds_top.tex
+
+.. figure:: happypictures/Three_kinds.*
+   :scale: 150 %
+   :alt: Three_kinds
+   :align: center
+
+   **Three kinds **
+.. include:: Three_kinds_bot.tex
+
+
+The HVAC-L Idea
+************************************************************************
+.. include:: hvacl_idea_top.tex
+
+.. figure:: happypictures/hvacl_idea.*
+   :scale: 300 %
+   :alt: hvacl_idea
+   :align: center
+
+   **hvacl idea **
+.. include:: hvacl_idea_bot.tex
+
+Revision Control - this file alone
+------------------------------------------------
+
+
+    **Dot version code, Timestamp, Named Person**
+
+    0.9.9, 03 Nov 2021 13:50 Z, Dan Kolis
+
+**Document end**
