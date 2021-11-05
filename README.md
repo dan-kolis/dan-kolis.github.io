@@ -1,2 +1,2 @@
 # dan-kolis.github.io
-Dan Kolis - Various things I think mattter
+Dan Kolis - Various things I think matter
