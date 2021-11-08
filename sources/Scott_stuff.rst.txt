@@ -1,0 +1,87 @@
+.. _oegstuff:
+
+A few Example Projects:
+======================================
+A few IoT and so on, computery things we made:
+
+.. include:: Oeg_made_top.tex
+
+.. figure:: happypictures/Oeg_pcb_logo.*
+   :scale: 60 %
+   :alt: Near_Toronto
+   :align: center
+
+   **Near Toronto**
+.. include:: Oeg_made_bot.tex
+
+
+
+
+Touch screen SBC
+-----------------------
+
+.. figure:: happypictures/Scott_touch_screen_sbc.jpg
+   :scale: 50 %
+   :alt: Touch screen PCB
+   :align: center
+
+   **Touch Screen PCB**
+
+OEG offers customizable controllers with 6” TFT back-lit LCD touch screens that can be used for robotics or any other type of control. The controllers features a TI AM1808 CPU, ARM926EJ-S core processor with SDRAM and 1GB Nandflash storage.
+
+The controller provides the following interface ports:
+
+(2) USB
+(1) 10M/100M Ethernet
+(1) 1.5Gbps/3Gbps SATA
+(2) I/O
+(1) Audio IN
+(1) Audio OUT
+(1) VGA
+(1) SD Card
+(1) RS-485 Serial
+(3) RS-232 Serial
+
+
+Heads up display
+------------------
+
+.. figure:: happypictures/Scott_heads_up_display.jpg
+   :scale: 50 %
+   :alt: Display
+   :align: center
+
+   **Heads up display**
+
+
+The MC-METER Motorcycle Information Display was designed by OEG to offer the discerning rider a safe, quick and easy means of monitoring the charging system output of the motorcycle.
+
+The unit is very compact and easily mountable wherever the rider desires.
+
+Electrical system charge/discharge current, voltage and engine temperature (with optional probe) are displayed in sequence by simply cycling the large pushbutton on the face of the unit. Individual coloured LED's indicate what parameter is being displayed. The information is displayed on a back-lite LCD display for easy day or night operation.
+
+The charge/discharge current Hall Effect sensor as well as the voltage sense connection are all design for simple and easy installation without any modification to the bike's stock wiring.
+
+
+Cable TV Controller 
+---------------------------
+
+.. figure:: happypictures/Scott_arm_9.*
+   :scale: 50 %
+   :alt: Cable TV PCB
+   :align: center
+
+   **Cable TV Controller**
+
+The MN2-OQ-1 Communications Board was designed by OEG as a custom controller for Cable TV (CATV) head-end equipment. The proprietary custom industrial communication Linux interface acts as a GUI (Graphical User Interface) SNMP (Simple Network Management Protocol) with both registered IEEE standard MIBs (Management Information Base) and custom MIBs.
+
+The MN2-OQ-1 utilizes USB data capture and can be used to control and monitor a single head-end rack or the fiber infrastructure of an entire city.
+
+A full complement of extremely fast SNMP along with the the best of open source LINUX
+architecture make the unit a feature packed flexible product.
+
+A human factors interface makes HTTP screens for any human readable language with ease.
+Currently four languages are used in the field in various countries.
+
+Around 1000 have been manufactured.
+

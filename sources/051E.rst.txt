@@ -1,0 +1,89 @@
+
+Welcome ! Let's discuss Interactive Sciences
+===========================================================
+.. include:: Saw_thing_yours_top.tex
+
+.. figure:: happypictures/Saw_thing_yours.*
+   :scale: 70 %
+   :alt: Saw_thing_yours
+   :align: center
+
+   **Interactive Sciences Website**
+.. include:: Saw_thing_yours_bot.tex
+
+
+A Proposed Device
+**********************
+.. include:: Needs_to_exist_top.tex
+
+.. figure:: happypictures/Needs_to_exist.*
+   :scale: 80 %
+   :alt: Needs to exist
+   :align: center
+
+   **What the Board can implement**
+.. include:: Needs_to_exist_bot.tex
+
+
+Welcome to Computer On a Module (COM) fabrications
+****************************************************
+.. include:: Easy_to_do_1_top.tex
+
+.. figure:: happypictures/nxp2gpu.*
+   :scale: 170 %
+   :alt: SOM/COM NXP 2GPU
+   :align: center
+
+   **SOM/COM NXP 2GPU**
+.. include:: Easy_to_do_1_bot.tex
+
+
+Software interface
+************************************************************************
+.. include:: Software_interface_top.tex
+
+.. centered:: A Look at the Primary Polling code shape
+
+.. figure:: happypictures/Flow_5.*
+   :scale: 180 %
+   :alt: Software_interface
+   :align: center
+
+   **Main Polling Loop**
+.. include:: Software_interface_bot.tex
+
+
+The O.E.G. Inc. shop
+************************************************************************
+.. include:: Oeg_top.tex
+
+.. figure:: happypictures/Oeg_people.*
+   :scale: 115 %
+   :alt: O.E.G. Inc.
+   :align: center
+
+   **O.E.G. Inc.**
+.. include:: Oeg_bot.tex
+
+Contacts
+************************************************************************
+.. include:: Contact_final_top.tex
+
+.. figure:: happypictures/Contacts_w.*
+   :scale: 40 %
+   :alt: Contact_final
+   :align: center
+
+   **Contacts**
+.. include:: Contact_final_bot.tex
+
+
+Revision Control - This file alone
+------------------------------------------------
+
+    **Dot version code, Timestamp, Named Person, Note**
+
+    1.1.1, 08 Nov 2021 18:55 Z, Dan Kolis, Initial
+
+
+**Document end**
